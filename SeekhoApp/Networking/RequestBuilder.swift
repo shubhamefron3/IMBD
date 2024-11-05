@@ -13,7 +13,7 @@ final class RequestBuilder {
         
         var request = URLRequest(url: url)
         request.httpMethod = method
-        request.allHTTPHeaderFields = ["x-rapidapi-key":"a267313099msh0f92d3ec52cd1ffp146109jsn5a919eb3081c"]
+        request.allHTTPHeaderFields = ["x-rapidapi-key":"8ca6b57c06mshda403828015cc85p139808jsn871cb2c9416d"]
         // Add any necessary headers
         return request
     }
